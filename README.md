@@ -6,11 +6,14 @@ Classifying rock formation using well logs data
 The data used can be found on Kaggle: https://www.kaggle.com/imeintanis/well-log-facies-dataset
 
 #Summary results:
-               Model  Accuracy
-0        xgboost_clf  0.831530
-1     Deicision Tree  0.749614
-2       Catboost_clf  0.839258
-3  Random_Forest_clf  0.848532
+
+xgboost_clf : 0.831530
+
+Deicision Tree : 0.749614
+
+Catboost_clf : 0.839258
+
+Random_Forest_clf : 0.848532
 
 
 
